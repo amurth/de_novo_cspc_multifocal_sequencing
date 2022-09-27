@@ -1,5 +1,5 @@
-# cfdna-wgs-manuscript-code
-This repository contains the code used to carry out the analyses in our article "".
+# De novo mCSPC multi-focal sequencing code
+This repository contains the code used to carry out the analyses in our article "". All code within this repository is originally authored by Matti Annala.
 
 Patient whole-genome sequencing data have been deposited in the European Genome-Phenome Archive (EGA) database under the accession code EGAS00001006466 and is available under standard EGA controlled release.
 
