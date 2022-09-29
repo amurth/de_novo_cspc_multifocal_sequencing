@@ -3,9 +3,6 @@ This repository contains the code used to carry out the analyses in our article 
 
 Patient whole-genome sequencing data have been deposited in the European Genome-Phenome Archive (EGA) database under the accession code EGAS00001006466 and is available under standard EGA controlled release.
 
-Simulated patient data files for experimenting with our subclonal reconstruction algorithms is also available here:
-https://www.dropbox.com/s/hofrv1vlnln1mau/example_patients.zip?dl=0
-
 
 ## Pre-requisites
 
